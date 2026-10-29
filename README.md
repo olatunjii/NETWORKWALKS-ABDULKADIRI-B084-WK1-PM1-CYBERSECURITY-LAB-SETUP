@@ -1,4 +1,4 @@
-# Cybersecurity Lab Setup: Kali Linux on VirtualBox
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8dafbaa4-8db1-4b47-87da-b296af71eac9" /># Cybersecurity Lab Setup: Kali Linux on VirtualBox
 
 An isolated virtual lab with a Kali Linux machine on a private VirtualBox NAT Network, built for ethical hacking and penetration testing practice.
 
@@ -101,6 +101,16 @@ sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 sudo nmcli connection down "Wired connection 1"
 sudo nmcli connection up "Wired connection 1"
 ```
+
+## Additional Tasks: Windows & Android Labs
+
+I also set up Windows and Android virtual machines in VirtualBox, following similar setup procedures and carefully applying the relevant configuration steps.
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e8d928b8-0bf0-4832-887d-9cf2676cdbbc" />
+
+
+<img width="1917" height="1078" alt="Andriod VM" src="https://github.com/user-attachments/assets/c8fc4016-0a7d-4442-ae83-c746e22dddc5" />
 
 ---
 
