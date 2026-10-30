@@ -1,4 +1,4 @@
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8dafbaa4-8db1-4b47-87da-b296af71eac9" /># Cybersecurity Lab Setup: Kali Linux on VirtualBox
+Kali Linux on VirtualBox
 
 An isolated virtual lab with a Kali Linux machine on a private VirtualBox NAT Network, built for ethical hacking and penetration testing practice.
 
